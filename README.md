@@ -12,7 +12,7 @@
 * 🦉 Interested in emulators, reverse engineering, hacking, graphics and others
 * 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145)
 * 📱 My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧 OS in use (x86): Blackbuntu Jammy, Windows 11
+* 🐧 OS in use (x86): Manjaro KDE, Windows 11
 * 🌖 Mobile Custom ROM/OS in use (armv8a): Corvus (Eclipse)
 
 ## Currently using
@@ -24,7 +24,7 @@
 
 ## Working on
 - [🪷 Lotus: PSXX emulator](https://github.com/beloncode/lotus-emu)
-- [🥥 apac: RSE software](https://github.com/beloncode/apac)
+- [🪴 apac: RSE software](https://github.com/beloncode/apac)
 - [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA)
 
 ## Utilities that I use
