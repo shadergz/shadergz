@@ -2,7 +2,7 @@
 
 > Focused in math, networking, science and computing, learning new things everyday
 
-📚 **Learning**: How to create effective UI for mobile apps users and how to interact with native code using: Kotlin and C++!
+📚 **Learning**: How to create effective UIs for mobile apps users and how to interact with native code using: Dart/Kotlin/Java and C++!
 
 ## More about me
 
@@ -16,7 +16,7 @@
 * 🌖 Mobile Custom ROM/OS in use (armv8a): Corvus (Eclipse)
 
 ## Currently using
-<div align="middle">
+<div style="text-align: center;margin-left: auto; margin-right: auto">
 <a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="25px"></a>
@@ -24,7 +24,7 @@
 
 ## Working on
 - [🪷 Lotus: PSXX emulator](https://github.com/beloncode/lotus-emu)
-- [🪴 Apac: A mobile installable packages modifier](https://github.com/beloncode/apac)
+- [🍙 Apac: A mobile installable packages modifier](https://github.com/beloncode/apac)
 - [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA)
 
 ## Utilities that I use
@@ -32,8 +32,7 @@
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Stack&lineCount=2&theme=github_dark_green&line1=android-studio,Studio,337459;clion,Clion,636eae;neovim,Main%20Editor,93c63e;visual%20studio,Code,a5fa3e;&line2=arch-linux,Linux,f9e011;freebsd,BSD,a42e8f;)](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Stack&lineCount=2&theme=github_dark_green&line1=android-studio,Studio,337459;clion,Clion,636eae;neovim,Main%20Editor,93c63e;visual%20studio,Code,a5fa3e;&line2=arch-linux,Linux,f9e011;freebsd,BSD,a42e8f;)
 
 ## 💬 Social networks
-
-<div align="middle">
+<div style="text-align: center;margin-left: auto; margin-right: auto">
 <a href="https://www.instagram.com/beloncode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25px"></a>
 <a href="https://t.me/beloncode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
