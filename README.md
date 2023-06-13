@@ -2,7 +2,7 @@
 
 > Focused in math, networking, science and computing, learning new things everyday
 
-📚 **Learning**: How to create effective UIs for mobile apps users and how to interact with native code using: Dart/Kotlin/Java and C++!
+📚 **Learning**: How to create effective user interfaces for mobile apps and how to interact with native code using: Kotlin/Java with or within C++!
 
 ## More about me
 
@@ -13,7 +13,7 @@
 * 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145)
 * 📱 My smartphone CPU: Snapdragon 720G (miatoll)
 * 🐧 OS in use (x86): Debian (6.1.0), Windows 11
-* 🌖 Mobile Custom ROM/OS in use (armv8a): Corvus (Eclipse)
+* 🌖 Mobile Custom ROM/OS in use (armv8a): crDroid 9.5
 
 ## Currently using
 <div align="center">
@@ -24,7 +24,7 @@
 
 ## Working on
 - [🪷 Lotus: PSXX emulator](https://github.com/beloncode/lotus-emu)
-- [🍙 Apac: A mobile installable packages modifier](https://github.com/beloncode/apac)
+- [🍙 Apac: Decode and recompiler Android and IOS installable package files](https://github.com/beloncode/apac)
 - [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA)
 
 ## Utilities that I use
