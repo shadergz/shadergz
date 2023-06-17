@@ -1,8 +1,6 @@
 # Hello there! 👋
 
-> Focused in math, networking, science and computing, learning new things everyday
-
-📚 **Learning**: How to create effective user interfaces for mobile apps and how to interact with native code using: Kotlin/Java with or within C++!
+📚 **Learning**: How to create effective user interfaces for mobile apps and how to interact with native code using: Kotlin with or within C++!
 
 ## More about me
 
@@ -23,13 +21,8 @@
 </div>
 
 ## Working on
-- [🪷 Lotus: PSXX emulator](https://github.com/beloncode/lotus-emu)
 - [🍙 Apac: Decode and recompiler Android and IOS installable package files](https://github.com/beloncode/apac)
 - [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA)
-
-## Utilities that I use
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Stack&lineCount=2&theme=github_dark_green&line1=android-studio,Studio,337459;clion,Clion,636eae;neovim,Main%20Editor,93c63e;visual%20studio,Code,a5fa3e;&line2=arch-linux,Linux,f9e011;freebsd,BSD,a42e8f;)](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Stack&lineCount=2&theme=github_dark_green&line1=android-studio,Studio,337459;clion,Clion,636eae;neovim,Main%20Editor,93c63e;visual%20studio,Code,a5fa3e;&line2=arch-linux,Linux,f9e011;freebsd,BSD,a42e8f;)
 
 ## 💬 Social networks
 <div align="center">
