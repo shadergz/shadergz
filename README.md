@@ -1,17 +1,11 @@
 # Hello there! 👋
-
-📚 **Learning**: How to effective create user interfaces for Android apps using "Material You" and how to better interact with native code using: Kotlin with or within C++ by JNI
+📚 **Learning**: How to "Material You" works on Android apps and better way to interact with native code using: Kotlin with C++ by JNI
 
 ## More about me
-
-* 🐣 20 y.o.
-* 🇧🇷 Native language: Brazilian portuguese
-* 🇺🇸 My second language: English (I still learning yet...)
+* 🇧🇷 Native language: Brazilian portuguese; 🇺🇸 My second language: English (I still learning yet...)
 * 🦉 Interested in emulators, reverse engineering, hacking, graphics, network and others
-* 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145)
-* 📱 My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11
-* 🌖 Mobile Custom ROM/OS in use (AArch64): crDroid 9.5
+* 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145); 📱 My smartphone CPU: Snapdragon 720G (miatoll)
+* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11; 🌖 Mobile Custom ROM/OS in use (AArch64): crDroid 9.5
 
 ## Currently using
 <div align="center">
@@ -32,8 +26,8 @@
 
 ## Working on
 - [🍙 Apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
-- [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA) (being replaced by mt4mobile)
-- [👀 mt4mobile: An experimental implementation of MTA and SAMP for GTA SA v210 aarch64 (for more details look at OpenSA repo)](https://github.com/beloncode/mt4mobile)
+- [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA) (being replaced by SAMobile)
+- [👀 SAMobile: An experimental impl of MTA and SAMP for GTA SA v210 AArch64 (for more details look at OpenSA repo)](https://github.com/beloncode/SAMobile)
 
 ## Future projects
 - Onyx, Oblivion, Cyogen, Shimmer, WareTool
