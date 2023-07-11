@@ -1,11 +1,11 @@
 # Hello there! 👋
-📚 **Learning**: How to "Material You" works on Android apps and better way to interact with native code using: Kotlin with C++ by JNI
+📚 **Learning**: How to "Material You" works on Android apps and better ways to interact with native codes using Kotlin with C++ by Java Native Interface
 
 ## More about me
 * 🇧🇷 Native language: Brazilian portuguese; 🇺🇸 My second language: English (I still learning yet...)
 * 🦉 Interested in emulators, reverse engineering, hacking, graphics, network and others
 * 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145); 📱 My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11; 🌖 Mobile Custom ROM/OS in use (AArch64): crDroid 9.5
+* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11; 🌖 Mobile Custom ROM/OS in use (AArch64): crDroid 9.6
 
 ## Currently using
 <div align="center">
@@ -26,11 +26,11 @@
 
 ## Working on
 - [🍙 Apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
-- [🫧 OpenSA: Game hacking studies inside GTA:SA](https://github.com/beloncode/OpenSA) (being replaced by SAMobile)
 - [👀 SAMobile: An experimental impl of MTA and SAMP for GTA SA v210 AArch64 (for more details look at OpenSA repo)](https://github.com/beloncode/SAMobile)
+- [⚗️ Mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
 
 ## Future projects
-- Onyx, Oblivion, Cyogen, Shimmer, WareTool
+- Onyx, Oblivion, Cyogen, Shimmer, WareTool by Mithril
 
 ## Forked project that I have interest into it
 - [🍄 strato: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/beloncode/strato)
@@ -42,6 +42,8 @@
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25px"></a>
 <a href="https://t.me/beloncode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
 <a href="https://discord.com/users/beloncode#0279"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
+<a href="https://twitter.com/beloncode"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25px"></a>
+<a href="https://mastodon.social/@beloncode"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" height="25px"></a>
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
 <a href="https://www.youtube.com/@beloncode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
