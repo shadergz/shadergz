@@ -3,9 +3,9 @@
 
 ## More about me
 * 🇧🇷 Native language: Brazilian portuguese; 🇺🇸 My second language: English (I still learning yet...)
-* 🦉 Interested in emulators, reverse engineering, hacking, graphics, network and others
+* 🦉 Interested in emulators, reverse engineering, hacking, graphics, networking and others
 * 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145); 📱 My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11; 🌖 Mobile Custom ROM/OS in use (AArch64): crDroid 9.6
+* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11; 🌖 Mobile Custom ROM/OS in use (AArch64): crDroid 9.7
 
 ## Currently using
 <div align="center">
@@ -30,7 +30,7 @@
 - [⚗️ Mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
 
 ## Future projects
-- Onyx, Oblivion, Cyogen, Shimmer, WareTool by Mithril
+- Onyx, Zenith, Cyogen, Shimmer, WareTool by Mithril
 
 ## Forked project that I have interest into it
 - [🍄 strato: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/beloncode/strato)
@@ -47,4 +47,3 @@
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
 <a href="https://www.youtube.com/@beloncode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
-
