@@ -5,7 +5,7 @@
 * 🇧🇷 Native language: Brazilian portuguese; 🇺🇸 My second language: English (I still learning yet...)
 * 🦉 Interested in emulators, reverse engineering, hacking, graphics, networking and others
 * 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145); 📱 My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧 OS in use (x86_64): Blackbuntu 22.04, Chimera (with musl), Windows 11; 🌖 Mobile custom ROM/OS in use (AArch64): crDroid 9.7
+* 🐧 OS in use (x86_64): Mint 21.2, Windows 11; 🌖 Mobile custom ROM/OS in use (AArch64): crDroid 9.7
 
 ### Languages in everyday use
 <div align="center">
