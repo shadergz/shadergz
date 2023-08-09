@@ -1,5 +1,5 @@
 ## Hello there! 👋
-📚 _July 2023_: I am studying how 'Material You' works on Android apps and exploring better ways to interact with native code using Kotlin with C++ through the Java Native Interface
+📚 _July 2023_: I am studying how 'Material You' works on Android apps and exploring better ways to interact with native code using Kotlin with C++ through the JNI
 
 ### More about me
 * 🇧🇷 Native language: Brazilian portuguese; 🇺🇸 My second language: English (I still learning yet...)
@@ -31,9 +31,9 @@
 </div>
 
 ### Working on
-- [🍙 Apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
-- [👀 SAMobile: An experimental impl of MTA and SAMP for GTA SA v210 AArch64 (for more details look at OpenSA repo)](https://github.com/beloncode/SAMobile)
-- [⚗️ Mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
+- [🍙 apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
+- [🪐 SAMobile: An experimental MTA and SAMP implementation for GTA SA v210 on AArch64](https://github.com/beloncode/SAMobile)
+- [⚗️ mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
 
 ### Future projects
 - Onyx, Zenith (Active development), Cyogen, Shimmer, WareTool by Mithril
