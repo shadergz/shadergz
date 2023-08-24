@@ -1,13 +1,14 @@
-## Hello there! 👋
-📚 _July 2023_: I am studying how 'Material You' works on Android apps and exploring better ways to interact with native code using Kotlin with C++ through the JNI
+### Hello there! 👋
+_🏷️Studying in August_: How 'Material You' works; better ways to interact with native code using Kotlin with C++ through the JNI
 
-### More about me
-* 🇧🇷 Native language: Brazilian portuguese; 🇺🇸 My second language: English (I still learning yet...)
-* 🦉 Interested in emulators, reverse engineering, hacking, graphics, networking and others
-* 💻 My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145); 📱 My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧 OS in use (x86_64): Mint 21.2, Windows 11; 🌖 Mobile custom ROM/OS in use (AArch64): crDroid 9.7
+#### More about me
+* 🥽I am 20 y.o.; I have been coding for over 2y; I have experience in Python (Pandas), Lua, and Ruby
+* 🇧🇷Native language: PT-BR; 🇺🇸Second language: American english
+* 🌊I'm curious about emulators, RISC machines (ARM64 based), reverse engineering, graphics, networking, and others
+* 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145) - 📱My smartphone CPU: Snapdragon 720G (miatoll)
+* 🐧OS in use (laptop): Mint 21.2, Windows 11 - 🐡(mobile custom ROM): crDroid 9.7
 
-### Languages in everyday use
+#### Languages in everyday use
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"></a>
@@ -15,7 +16,7 @@
 <a href=""><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="25px"></a>
 </div>
 
-### Most used tools, frameworks and libraries
+#### Most used tools, frameworks and libraries
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"></a>
@@ -24,25 +25,25 @@
 <a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"></a>
 </div>
 
-### You might also come across me here occasionally
+#### You might also come across me here occasionally
 <div align="center">
 <a href="https://leetcode.com/beloncode"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
 <a href="https://tryhackme.com/p/beloncode"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
-### Working on
-- [🍙 apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
-- [🪐 SAMobile: An experimental MTA and SAMP implementation for GTA SA v210 on AArch64](https://github.com/beloncode/SAMobile)
-- [⚗️ mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
+#### Working on
+- [🍙apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
+- [🪐SAMobile: An experimental MTA and SAMP implementation for GTA SA v210 on AArch64](https://github.com/beloncode/SAMobile)
+- [⚗️mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
 
-### Future projects
-- Onyx, Zenith (Active development), Cyogen, Shimmer, WareTool by Mithril
+#### Future projects
+- Onyx, Zenith (active development), Cyogen, Shimmer, WareTool by Mithril
 
-### Forked projects that I have an interest in
-- [🍄 strato: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/beloncode/strato)
-- [🔎 readpe: The PE file analysis toolkit](https://github.com/beloncode/readpe)
+#### Forked projects that I have an interest in
+- [🍄strato: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/beloncode/strato)
+- [🔎readpe: The PE file analysis toolkit](https://github.com/beloncode/readpe)
 
-### Social networks
+#### Social networks
 <div align="center">
 <a href="https://www.instagram.com/beloncode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25px"></a>
