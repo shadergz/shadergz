@@ -1,12 +1,12 @@
 ### Hello there! 👋
-_👽Studying in August_: How 'Material You' works; better ways to interact with native code using Kotlin with C++ through the JNI
+_(👽Studying in August)_: How 'Material You' works - Better ways to interact with native code using Kotlin with C++ through the JNI
 
 #### More about me
 * 🫁I am 20 y.o. - I have been coding for over 2y - I have experience in Python (Pandas), Lua, and Ruby
 * 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
-* 🧅I'm curious about emulators, RISC machines, reverse engineering, graphics, networking, and others
-* 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 (S145) - 📱My smartphone CPU: Snapdragon 720G (miatoll)
-* 🐧OS in use (laptop): Mint 21.2, Windows 11 - 🐡(mobile custom ROM): crDroid 9.7
+* 🧅I'm curious about emulators, RISC machines (arm64; mips32le), reverse engineering (Elf), graphics (OpenGL/Vulkan), networking (sysadmin), and others
+* 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 (curtana_global)
+* 🐧OS in use (laptop): Manjaro Uranos, Kubuntu 23.04, Windows 11 - 🐡(mobile custom ROM): Project Elixir v3.11
 
 #### Languages in everyday use
 <div align="center">
