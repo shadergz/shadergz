@@ -1,12 +1,11 @@
 ### Hello there! 👋
-_(👽Studying in August)_: How 'Material You' works - Better ways to interact with native code using Kotlin with C++ through the JNI
+*Studying topics such as how the Emotion Engine MIPS works, methods for modifying the behaviors of vehicles and game NPCs in SAMobile*
 
 #### More about me
-* 🫁I am 20 y.o. - I have been coding for over 2y - I have experience in Python (Pandas), Lua, and Ruby
 * 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
-* 🧅I'm curious about emulators, RISC machines (arm64; mips32le), reverse engineering (Elf), graphics (OpenGL/Vulkan), networking (sysadmin), and others
-* 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 (curtana_global)
-* 🐧OS in use (laptop): Manjaro Uranos, Kubuntu 23.04, Windows 11 - 🐡(mobile custom ROM): Project Elixir v3.11
+* 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering ("arm64"), graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
+* 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
+* 🐧OS in use (laptop): Manjaro Uranos, Debian 6.4, Windows 11 - 🐡(mobile custom ROM): Project Elixir v3.11 ("4.14 with KernelSU")
 
 #### Languages in everyday use
 <div align="center">
@@ -31,19 +30,15 @@ _(👽Studying in August)_: How 'Material You' works - Better ways to interact w
 <a href="https://tryhackme.com/p/beloncode"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
-#### Working on
+#### Occasionally working on the projects, just for fun
 - [🍙apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
 - [🪐SAMobile: An experimental MTA and SAMP implementation for GTA SA v210 on AArch64](https://github.com/beloncode/SAMobile)
 - [⚗️mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
 
-#### Future projects
-- Onyx, Zenith (active development), Cyogen, Shimmer, WareTool by Mithril
+#### Projects under construction/study by the (mythril.org) organization
+- Onyx, Zenith (active development), Cyogen, Shimmer, WareTool
 
-#### Forked projects that I have an interest in
-- [🍄strato: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/beloncode/strato)
-- [🔎readpe: The PE file analysis toolkit](https://github.com/beloncode/readpe)
-
-#### Social networks
+#### Social media (I'm here occasionally)
 <div align="center">
 <a href="https://www.instagram.com/beloncode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25px"></a>
