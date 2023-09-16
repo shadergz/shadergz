@@ -1,5 +1,5 @@
 ### Hello there! 👋
-*Studying topics such as how the Emotion Engine MIPS works, methods for modifying the behaviors of vehicles and game NPCs in SAMobile*
+*Studying topics such as how the emotion engine mipsle32 works, methods for modifying the behaviors of vehicles and game npcs in sa-mobile-v210*
 
 #### More about me
 * 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
@@ -31,12 +31,12 @@
 </div>
 
 #### Occasionally working on the projects, just for fun
-- [🍙apac: Decode and recompiler Android and IOS installable packages file](https://github.com/beloncode/apac)
-- [🪐SAMobile: An experimental MTA and SAMP implementation for GTA SA v210 on AArch64](https://github.com/beloncode/SAMobile)
-- [⚗️mythril: Self taught developing Android apps from scratch by learning new things everyday](https://github.com/mithrilorg)
+- [🍙apac](https://github.com/beloncode/apac)
+- [🪐sa-mobile-v210](https://github.com/beloncode/sa-mobile-v210)
+- [⚗️mythril](https://github.com/mythrilorg)
 
 #### Projects under construction/study by the (mythril.org) organization
-- Onyx, Zenith (active development), Cyogen, Shimmer, WareTool
+- onyx, zenith (active development), cryogen, shimmer, waretool
 
 #### Social media (I'm here occasionally)
 <div align="center">
