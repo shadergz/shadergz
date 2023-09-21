@@ -33,9 +33,9 @@
 #### Occasionally working on the projects, just for fun
 - [🍙apac](https://github.com/beloncode/apac)
 - [🪐sa-mobile-v210](https://github.com/beloncode/sa-mobile-v210)
-- [⚗️mythril](https://github.com/mythrilorg)
+- [🧪zenith by mythrilorg](https://github.com/mythrilorg/zenith)
 
-#### Projects under construction/study by the (mythril.org) organization
+#### Projects under construction/study by the (mythrilorg) organization
 - onyx, zenith (active development), cryogen, shimmer, waretool
 
 #### Social media (I'm here occasionally)
