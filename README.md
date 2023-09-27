@@ -3,9 +3,9 @@
 
 #### More about me
 * 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
-* 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering ("arm64"), graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
+* 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
-* 🐧OS in use (laptop): Manjaro Uranos, Debian 6.4, Windows 11 - 🐡(mobile custom ROM): Project Elixir v3.11 ("4.14 with KernelSU")
+* 🐧OS in use ("laptop"): Manjaro Uranos, Kali Linux 6.5.0, Windows 11 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.11 ("4.14 with KernelSU")
 
 #### Languages in everyday use
 <div align="center">
@@ -34,6 +34,7 @@
 - [🍙apac](https://github.com/beloncode/apac)
 - [🪐sa-mobile-v210](https://github.com/beloncode/sa-mobile-v210)
 - [🧪zenith by mythrilorg](https://github.com/mythrilorg/zenith)
+- [🗻strato-yoriyoi](https://github.com/beloncode/strato-yoriyoi)
 
 #### Projects under construction/study by the (mythrilorg) organization
 - onyx, zenith (active development), cryogen, shimmer, waretool
