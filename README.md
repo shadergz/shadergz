@@ -1,5 +1,5 @@
 ### Hello there! 👋
-*Studying topics such as how the emotion engine mipsle32 works, methods for modifying the behaviors of vehicles and game npcs in sa-mobile-v210*
+*Studying topics such as how the emotion engine works, methods for modifying the behaviors of vehicles and game NPCs in saonline-mobile project*
 
 #### More about me
 * 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
