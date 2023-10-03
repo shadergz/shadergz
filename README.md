@@ -1,8 +1,8 @@
-### Hello there! 👋
-*Studying topics such as how the emotion engine works, methods for modifying the behaviors of vehicles and game NPCs in saonline-mobile project*
+```kotlin
+    val actions = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "nationality" to "Brazilian")
+```
 
-#### More about me
-* 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
+#### About me
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
 * 🐧OS in use ("laptop"): Manjaro Uranos, Kali Linux 6.5.0, Windows 11 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.11 ("4.14 with KernelSU")
@@ -13,15 +13,6 @@
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="25px"></a>
-</div>
-
-#### Most used tools, frameworks and libraries
-<div align="center">
-<a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"></a>
-<a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"></a>
-<a href=""><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25px"></a>
-<a href=""><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="25px"></a>
-<a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"></a>
 </div>
 
 #### You might also come across me here occasionally
@@ -50,4 +41,3 @@
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
 <a href="https://www.youtube.com/@beloncode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
-
