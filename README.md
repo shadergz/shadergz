@@ -1,13 +1,8 @@
-```kotlin
-// Coding for 2 years
-val actions = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "nationality" to "Brazilian")
-val languages = listOf("Python", "C", "C++", "Kotlin", "Rust", "Smali", "ASM RISC(mips, arm64)")
-```
-
 #### About me
+* ``` val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "learning" to "How to build emulators") ```
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
-* 🐧OS in use ("laptop"): Manjaro Uranos, Kali Linux 6.5.0, Windows 11 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.11 ("4.14 with KernelSU")
+* 🐧OS in use ("laptop"): Manjaro Uranos, Kali Linux 2023.3, Windows 11 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.11 ("4.14 with KernelSU")
 
 #### Languages in everyday use
 <div align="center">
@@ -15,6 +10,7 @@ val languages = listOf("Python", "C", "C++", "Kotlin", "Rust", "Smali", "ASM RIS
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="25px"></a>
+<a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="25px"></a>
 </div>
 
 #### You might also come across me here occasionally
