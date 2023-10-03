@@ -1,6 +1,7 @@
 ```kotlin
 // Coding for 2 years
 val actions = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "nationality" to "Brazilian")
+val languages = listOf("Python", "C", "C++", "Kotlin", "Rust", "Smali", "ASM RISC(mips, arm64)")
 ```
 
 #### About me
