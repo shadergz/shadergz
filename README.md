@@ -23,10 +23,10 @@ val actions = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "nationalit
 </div>
 
 #### Occasionally working on the projects, just for fun
-- [🍙apac](https://github.com/beloncode/apac)
-- [🪐saonline-mobile](https://github.com/beloncode/saonline-mobile)
-- [🧪zenith by mythrilorg](https://github.com/mythrilorg/zenith)
-- [🗻strato-yoriyoi](https://github.com/beloncode/strato-yoriyoi)
+- [🍙apac](https://github.com/beloncode/apac) (software)
+- [🪐saonline-mobile](https://github.com/beloncode/saonline-mobile) (plugin)
+- [🧪zenith by mythrilorg](https://github.com/mythrilorg/zenith) (emulator)
+- [🗻strato-yoriyoi](https://github.com/beloncode/strato-yoriyoi) (emulator)
 
 #### Projects under construction/study by the (mythrilorg) organization
 - onyx, zenith (active development), cryogen, shimmer, waretool
