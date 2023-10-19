@@ -21,14 +21,9 @@
 
 #### Occasionally working on the projects, just for fun
 - [🍙apac](https://github.com/beloncode/apac) (application)
-- [🔮onyx by mythrilorg](https://github.com/mythrilorg/onyx) (application)
 - [🪐gtasacoop](https://github.com/beloncode/gtasacoop) (plugin)
 - [🌌afloat-kernelsu-sm6250](https://github.com/beloncode/afloat-kernelsu-sm6250) (kernel)
-- [🥟aerialite](https://github.com/beloncode/aerialite) (game)
 - [🧪zenith by mythrilorg](https://github.com/mythrilorg/zenith) (emulator)
-- [🍣playone](https://github.com/beloncode/playone) (emulator)
-- [🗻strato-osaka](https://github.com/beloncode/strato-osaka) (emulator)
-- [👽etherpro](https://github.com/beloncode/etherpro) (engine)
 
 #### Projects under construction/study by the (mythrilorg) organization
 - onyx, zenith (active development), cryogen, shimmer, waretool
