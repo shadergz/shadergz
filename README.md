@@ -1,8 +1,8 @@
 #### About me
-* ``` val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "learning" to "How to build emulators") ```
+* ```val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "learning" to "How to build emulators")```
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
-* 🐧OS in use ("laptop"): Manjaro Uranos, Kali Linux 2023.3, Windows 11 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.11 ("4.14 with KernelSU")
+* 🐧OS in use ("laptop"): Fedora 39, Kali Linux 2023.3, Windows 11 23H2 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.13 ("4.14 with KernelSU")
 
 #### Languages in everyday use
 <div align="center">
@@ -22,11 +22,7 @@
 #### Occasionally working on the projects, just for fun
 - [🍙apac](https://github.com/beloncode/apac) (application)
 - [🪐gtasacoop](https://github.com/beloncode/gtasacoop) (plugin)
-- [🌌afloat-kernelsu-sm6250](https://github.com/beloncode/afloat-kernelsu-sm6250) (kernel)
-- [🧪zenith by mythrilorg](https://github.com/mythrilorg/zenith) (emulator)
-
-#### Projects under construction/study by the (mythrilorg) organization
-- onyx, zenith (active development), cryogen, shimmer, waretool
+- [🧪cosmic by mythrilorg](https://github.com/mythrilorg/cosmic-station) (emulator)
 
 #### Social media (I'm here occasionally)
 <div align="center">
