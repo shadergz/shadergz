@@ -31,7 +31,6 @@
 <a href="https://t.me/beloncode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
 <a href="https://discord.com/users/beloncode#0279"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
 <a href="https://twitter.com/beloncode"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25px"></a>
-<a href="https://mastodon.social/@beloncode"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" height="25px"></a>
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
 <a href="https://www.youtube.com/@beloncode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
