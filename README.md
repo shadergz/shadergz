@@ -2,7 +2,7 @@
 * ```val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "learning" to "How to build emulators")```
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
-* 🐧OS in use ("laptop"): Fedora 39, Kali Linux 2023.3, Windows 11 23H2 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.13 ("4.14 with KernelSU")
+* 🐧OS in use ("laptop"): Fedora 39, Kali Linux 2023.4, Windows 11 23H2 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.13 ("4.14 (EOL) with KernelSU")
 
 #### Languages in everyday use
 <div align="center">
