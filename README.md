@@ -1,6 +1,6 @@
 #### About me
 * ```val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "20", "learning" to "How to build emulators")```
-* 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32le"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
+* 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop CPU/GPU: Ryzen 5 + Vega 8 - 📱My smartphone CPU: Snapdragon 720G + Adreno 618 ("curtana_global")
 * 🐧OS in use ("laptop"): Fedora 39, Kali Linux 2023.4, Windows 11 23H2 - 🐡Custom ROM in use ("mobile"): Project Elixir v3.13 ("4.14 (EOL) with KernelSU")
 
@@ -15,22 +15,22 @@
 
 #### You might also come across me here occasionally
 <div align="center">
-<a href="https://leetcode.com/beloncode"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
-<a href="https://tryhackme.com/p/beloncode"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
+<a href="https://leetcode.com/spirvdev"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
+<a href="https://tryhackme.com/p/spirvdev"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
 #### Occasionally working on the projects, just for fun
-- [🍙apac](https://github.com/beloncode/apac) (application)
-- [🪐gtasacoop](https://github.com/beloncode/gtasacoop) (plugin)
-- [🧪cosmic by mythrilorg](https://github.com/mythrilorg/cosmic-station) (emulator)
+- [🍙apac](https://github.com/spirvdev/apac) (application)
+- [🪐gtasacoop](https://github.com/spirvdev/gtasacoop) (plugin)
+- [🧪cosmic-station by mythril](https://github.com/mythril/cosmic-station) (emulator)
 
 #### Social media (I'm here occasionally)
 <div align="center">
-<a href="https://www.instagram.com/beloncode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
+<a href="https://www.instagram.com/spirvdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25px"></a>
-<a href="https://t.me/beloncode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
-<a href="https://discord.com/users/beloncode#0279"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
-<a href="https://twitter.com/beloncode"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25px"></a>
+<a href="https://t.me/spirvdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
+<a href="https://discord.com/users/spirvdev"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
+<a href="https://twitter.com/spirvdev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25px"></a>
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
-<a href="https://www.youtube.com/@beloncode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
+<a href="https://www.youtube.com/@spirvdev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
