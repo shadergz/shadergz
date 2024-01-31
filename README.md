@@ -22,7 +22,7 @@
 #### Occasionally working on the projects, just for fun
 - [🍙apac](https://github.com/spirvdev/apac) (application)
 - [🪐gtasacoop](https://github.com/spirvdev/gtasacoop) (plugin)
-- [🧪cosmic-station by mythril](https://github.com/mythril/cosmic-station) (emulator)
+- [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
 
 #### Social media (I'm here occasionally)
 <div align="center">
