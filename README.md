@@ -21,7 +21,7 @@
 
 #### Occasionally working on the projects, just for fun
 - [🍙apac](https://github.com/spirvdev/apac) (application)
-- [🪐gtasacoop](https://github.com/spirvdev/gtasacoop) (plugin)
+- [🪐gtasamp20](https://github.com/spirvdev/gtasamp20) (plugin)
 - [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
 
 #### Social media (I'm here occasionally)
