@@ -21,7 +21,7 @@
 
 #### Occasionally working on the projects, just for fun
 - [🍙apac](https://github.com/spirvdev/apac) (application)
-- [🥐sampexp-20](https://github.com/spirvdev/sampexp-20) (plugin)
+- [🥜sampexp-20](https://github.com/spirvdev/sampexp-20) (plugin)
 - [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
 
 #### Social media (I'm here occasionally)
