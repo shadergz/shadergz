@@ -15,22 +15,22 @@
 
 #### You might also come across me here occasionally
 <div align="center">
-<a href="https://leetcode.com/spirvdev"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
-<a href="https://tryhackme.com/p/spirvdev"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
+<a href="https://leetcode.com/ifgpuelse"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
+<a href="https://tryhackme.com/p/ifgpuelse"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
 #### Occasionally working on the projects, just for fun
-- [🍙apac](https://github.com/spirvdev/apac) (application)
-- [🕶sampmobile20](https://github.com/spirvdev/sampmobile20) (plugin)
+- [🍙apac](https://github.com/ifgpuelse/apac) (application)
+- [🕶sampmobile20](https://github.com/ifgpuelse/sampmobile20) (plugin)
 - [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
 
 #### Social media (I'm here occasionally)
 <div align="center">
-<a href="https://www.instagram.com/spirvdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
+<a href="https://www.instagram.com/ifgpuelse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="25px"></a>
-<a href="https://t.me/spirvdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
-<a href="https://discord.com/users/spirvdev"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
-<a href="https://twitter.com/spirvdev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25px"></a>
+<a href="https://t.me/ifgpuelse"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25px"></a>
+<a href="https://discord.com/users/ifgpuelse"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
+<a href="https://twitter.com/ifgpuelse"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25px"></a>
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
-<a href="https://www.youtube.com/@spirvdev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
+<a href="https://www.youtube.com/@ifgpuelse"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
