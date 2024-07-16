@@ -1,10 +1,10 @@
 #### About me
 * ```val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "21", "learning" to "How to build emulators")```
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
-* 💻My laptop setup: Ryzen 5 3500U - 📱My smartphone setup: Snapdragon 7+ Gen 2, 720G
+* 💻My laptop setup: Ryzen 5 3500 - 📱My smartphone setup: Snapdragon 7+ Gen 2, 720G
 * 🐧OS in use: Fedora 40, Windows 11 Home 23H2 - 🐡Custom ROM in use: crDroid 10.5
 
-#### Languages in everyday use
+#### Most used languages
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25px"></a>
@@ -13,18 +13,21 @@
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="25px"></a>
 </div>
 
-#### You might also come across me here occasionally
+#### Find me around here too
 <div align="center">
 <a href="https://leetcode.com/ifgpuelse"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
 <a href="https://tryhackme.com/p/ifgpuelse"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
-#### Occasionally working on the projects, just for fun
-- [🍙apac](https://github.com/ifgpuelse/apac) (application)
-- [🕶sampmobile20](https://github.com/ifgpuelse/sampmobile20) (plugin)
+#### I take care of the projects listed below in my own time
+- [🍙apac](https://github.com/shadergz/apac) (application)
+- [🕶sampmobile20](https://github.com/shadergz/sampmobile20) (plugin)
 - [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
+- [izumi](https://github.com/izumi-emu/izumi) (emulator)
+- [🍣playone](https://github.com/shadergz/playone.git) (emulator)
+- [hashcat-android-patch](https://github.com/shadergz/hashcat-android-patch.git) (patch)
 
-#### Social media (I'm here occasionally)
+#### My accounts on other social networks
 <div align="center">
 <a href="https://www.instagram.com/ifgpuelse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" height="25px"></a>
