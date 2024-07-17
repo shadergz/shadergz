@@ -1,5 +1,6 @@
 #### About me
 * ```val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "21", "learning" to "How to build emulators")```
+* 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop setup: Ryzen 5 35xxx - 📱My smartphone setup: Snapdragon 7+ Gen 2, 720G
 * 🐧OS in use: Fedora 40, Windows 11 Home 23H2 - 🐡Custom ROM in use: crDroid 10.5
@@ -11,6 +12,15 @@
 <a href=""><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="25px"></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" height="25px"></a>
+</div>
+
+#### Most used tools, frameworks and libraries
+<div align="center">
+<a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"></a>
+<a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"></a>
+<a href=""><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25px"></a>
+<a href=""><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="25px"></a>
+<a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"></a>
 </div>
 
 #### Find me around here too
