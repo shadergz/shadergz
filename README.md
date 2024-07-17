@@ -21,18 +21,15 @@
 
 #### I take care of the projects listed below in my own time
 - [🍙apac](https://github.com/shadergz/apac) (application)
-- [🕶sampmobile20](https://github.com/shadergz/sampmobile20) (plugin)
 - [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
-- [izumi](https://github.com/izumi-emu/izumi) (emulator)
-- [🍣playone](https://github.com/shadergz/playone.git) (emulator)
-- [hashcat-android-patch](https://github.com/shadergz/hashcat-android-patch.git) (patch)
+- [☄️izumi](https://github.com/izumi-emu/izumi) (emulator)
 
 #### My accounts on other social networks
 <div align="center">
 <a href="https://www.instagram.com/shadergz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" height="25px"></a>
 <a href="https://t.me/shadergz"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" height="25px"></a>
-<a href="https://discord.com/users/ifgpuelse"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
+<a href="https://discord.com/users/shadergz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
 <a href="https://twitter.com/gzshader"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" height="25px"></a>
 <a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
 <a href="https://www.youtube.com/@shadergz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
