@@ -1,6 +1,6 @@
 #### About me
 * ```val about = mapOf("name" to "Gabriel Correia", "yearsOld" to "21", "learning" to "How to build emulators")```
-* 🇧🇷Native language: PT-BR - 🇺🇸Second language: American english
+* BR Native language - US Second language (American english)
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop setup: Ryzen 5 35xxx - 📱My smartphone setup: Snapdragon 7+ Gen 2, 720G
 * 🐧OS in use: Fedora 40, Windows 11 Home 23H2 - 🐡Custom ROM in use: crDroid 10.5
