@@ -29,11 +29,6 @@
 <a href="https://tryhackme.com/p/ifgpuelse"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
-#### I take care of the projects listed below in my own time
-- [🍙apac](https://github.com/shadergz/apac) (application)
-- [🧪cosmic-station](https://github.com/darkluar/cosmic-station) (emulator)
-- [☄️izumi](https://github.com/izumi-emu/izumi) (emulator)
-
 #### My accounts on other social networks
 <div align="center">
 <a href="https://www.instagram.com/shadergz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
