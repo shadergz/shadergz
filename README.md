@@ -3,7 +3,7 @@
 * BR Native language - US Second language (American english)
 * 🧅I'm curious about emulators, RISC machines ("arm64"; "mips32"), reverse engineering, graphics ("OpenGL"; "Vulkan"), networking ("sysadmin")
 * 💻My laptop setup: Ryzen 5 35xxx - 📱My smartphone setup: Snapdragon 7+ Gen 2, 720G
-* 🐧OS in use: Fedora 40, Windows 11 Home 23H2 - 🐡Custom ROM in use: crDroid 10.5
+* 🐧OS in use: Arch Linux, Windows 11 Home 23H2 - 🐡Custom ROM in use: crDroid 10.8
 
 #### Most used languages
 <div align="center">
@@ -36,6 +36,5 @@
 <a href="https://t.me/shadergz"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" height="25px"></a>
 <a href="https://discord.com/users/shadergz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
 <a href="https://twitter.com/gzshader"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" height="25px"></a>
-<a href="https://www.linkedin.com/in/gabriel-correia-970a84256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25px"></a>
 <a href="https://www.youtube.com/@shadergz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
