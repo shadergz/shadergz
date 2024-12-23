@@ -25,8 +25,8 @@
 
 #### Find me around here too
 <div align="center">
-<a href="https://leetcode.com/ifgpuelse"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
-<a href="https://tryhackme.com/p/ifgpuelse"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
+<a href="https://leetcode.com/shadergz"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25px"></a>
+<a href="https://tryhackme.com/p/shadergz"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="25px"></a>
 </div>
 
 #### My accounts on other social networks
