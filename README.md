@@ -34,6 +34,6 @@
 <a href="https://www.instagram.com/shadergz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px"></a>
 <a href="https://www.reddit.com/u/beloncode"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" height="25px"></a>
 <a href="https://discord.com/users/shadergz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25px"></a>
-<a href="https://twitter.com/gzshader_"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" height="25px"></a>
+<a href="https://x.com/shadergz_"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" height="25px"></a>
 <a href="https://www.youtube.com/@shadergz"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="25px"></a>
 </div>
